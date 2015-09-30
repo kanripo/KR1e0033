@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋考
-#+DATE: 2015-09-23 09:39:31
-#+PROPERTY: JUAN 17
+#+DATE: 2015-08-24 22:13:38.666417
+#+PROPERTY: ID KR1e0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 原跋
 <pb:KR1e0033_WYG_017-1a>¶
 　春秋考原跋¶
 右春秋讞攷傳三書石林先生葉公之所作也自熙寧¶
@@ -13,4 +15,3 @@
 南劍州軍事判官真徳秀謹跋(案此乃讞考傳三書總/跋當在石林春秋傳後)¶
 <pb:KR1e0033_WYG_017-1b>¶
 (今傳之刻本不載是跋仍/依永樂大典本附編於此)¶
-
